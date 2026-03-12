@@ -10,7 +10,6 @@ This project focuses on building a Machine Learning model to predict house or fl
 * Predict house/flat prices for new inputs
 
 ### Technologies & Tools Used
-
 * **Python**
 * **Jupyter Notebook**
 * **Pandas & NumPy** – Data analysis
@@ -48,7 +47,6 @@ This project focuses on building a Machine Learning model to predict house or fl
 * Identified key factors affecting house prices
   
 ### Learning Outcomes
-
 * Understanding of regression techniques
 * Hands-on experience with EDA
 * Feature engineering and data preprocessing
@@ -59,11 +57,6 @@ This project focuses on building a Machine Learning model to predict house or fl
 * Hyperparameter tuning
 * Build a web app using Streamlit
 * Add location-based price prediction
-  
-### Author
-**Apurwa Khare**
-MCA (AI & ML)
-Data Science & Machine Learning
 
 ### License
 This project is for **academic and learning purposes only**.
