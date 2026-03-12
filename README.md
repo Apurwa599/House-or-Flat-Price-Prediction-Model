@@ -43,7 +43,6 @@ This project focuses on building a Machine Learning model to predict house or fl
 - ├── README.md
 
 ### Results
-
 * Built a regression model to predict house prices
 * Achieved reasonable accuracy on test data
 * Identified key factors affecting house prices
