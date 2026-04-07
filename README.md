@@ -8,7 +8,7 @@ This project focuses on building a Machine Learning model to predict house or fl
 * Build a machine learning model for price prediction
 * Evaluate model performance
 * Predict house/flat prices for new inputs
-
+  
 ### Technologies & Tools Used
 * **Python**
 * **Jupyter Notebook**
@@ -26,7 +26,7 @@ This project focuses on building a Machine Learning model to predict house or fl
 7. Evaluate model performance
 8. Make predictions
 
-### 📊 Machine Learning Approach
+### Machine Learning Approach
 * **Algorithm Used**: Linear Regression (or other regression models)
 * **Evaluation Metrics**:
   * R² Score
