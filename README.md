@@ -27,7 +27,7 @@ This project focuses on building a Machine Learning model to predict house or fl
 8. Make predictions
 
 ### Machine Learning Approach
-* **Algorithm Used**: Linear Regression (or other regression models)
+* **Algorithm Used**: Linear Regression or other regression models.
 * **Evaluation Metrics**:
   * R² Score
   * Mean Absolute Error (MAE)
