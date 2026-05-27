@@ -10,11 +10,10 @@ This project focuses on building a Machine Learning model to predict house or fl
 * Predict house/flat prices for new inputs
   
 ### Technologies & Tools Used
-* **Python**
-* **Jupyter Notebook**
-* **Pandas & NumPy** – Data analysis
-* **Matplotlib & Seaborn** – Data visualization
-* **Scikit-learn** – Machine Learning algorithms
+* Python
+* Pandas & NumPy
+* Matplotlib & Seaborn
+* Scikit-learn
 
 ### Workflow
 1. Load and explore the dataset
